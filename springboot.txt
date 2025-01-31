@@ -1,0 +1,32 @@
+Spring Boot
+
+What is a Spring Boot ?
+
+Spring boot is a tool that helps you quicky create java applications without needing to do a lot of setup.
+Its an application to create a spring based applications. Spring based application in the sense it is easy to create stand alone, production grade spring based application that you can just run.
+
+What is Spring
+
+- Its an Application framework
+- Programming and configuration model
+- Infrastructure support
+
+problems with spring
+
+- huge framework
+- Multiple setup steps
+- Multiple Configuration steps
+- Multiple build and deploy steps
+
+What Spring Boot gives us?
+
+- 
+
+Maven
+- Maven is a tool that helps manage java projects.It simplifies running and building dependencies like what all libraries your project needs
+- Maven is a build in dependency management tool
+- This includes all the dependency
+
+
+Think of Maven as your project manager that gathers all the tools and materials needed to construct a house.
+Think of Spring Boot as the construction blueprint and automation tools that make the process faster and easier, ensuring the house is built quickly and is functional without needing to rewire everything.
